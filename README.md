@@ -14,3 +14,12 @@ The act of initiating a new Pull Request will spawn a message to the original ow
 
 1. [Source] Go to your repository
 1. Merge Pull request
+
+## Books
+
+- Greed
+- Confederacy of Dunces
+- Grapes of Wrath
+
+## Name
+Mark Thomas
